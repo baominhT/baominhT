@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baominhT
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html,BAT,CSS
+- 👀 I’m interested in programming,machine learning, & cybersecurity
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: zyphuerz@gmail.com
 
