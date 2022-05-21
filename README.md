@@ -3,7 +3,7 @@
 ![hoo12F's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=algolia)
 
 - 👋 Hi, I’m @hoo12F
-- 👀 I’m interested in programming,machine learning, & cybersecurity
+- 👀 I’m interested in programming,machine learning, cybersecurity, web development & UI/UX
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: zyphuerz@gmail.com
