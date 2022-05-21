@@ -1,5 +1,5 @@
 ![github bannrt](https://user-images.githubusercontent.com/96026994/164997076-c7bdfdb2-80cd-4319-b96a-5fa0ce8711d7.png)
-## Hi, I'm BM !
+## Hi, I'm Omni !
 ![hoo12F's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=algolia)
 
 - 👋 Hi, I’m @hoo12F
