@@ -1,6 +1,9 @@
 ![github bannrt](https://user-images.githubusercontent.com/96026994/164997076-c7bdfdb2-80cd-4319-b96a-5fa0ce8711d7.png)
-## Hi, I'm Omni !
-![hoo12F's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=algolia)
+<h2 align="center">Hi, I'm Omni.</h2>
+<p align="center">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
+</p>
+
 
 - 👋 Hi, I’m @hoo12F
 - 👀 I’m interested in programming,machine learning, cybersecurity, web development & UI/UX
@@ -8,6 +11,13 @@
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: zyphuerz@gmail.com
 - 😄 My pronouns are they/them
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=github_dark&hide_border=true">
+</p>
+
+## About me 📝
+I'm a young developer from Vietnam and enjoy UI/UX design and web development. My favorite food is sushi and I have a cat, she's a mixed breed, but she is a ragdoll. I am currently in California, USA.
 
 ## Skills
 <img src="https://fc-wordpress-blog-bucket.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/21071611/480px-Python-logo-notext.svg_-2.png" alt="python" width="50">
