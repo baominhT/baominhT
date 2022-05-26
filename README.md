@@ -14,7 +14,7 @@
 
 
 ## About me 📝
-I'm a young developer from Vietnam and enjoy UI/UX design and web development. My favorite food is sushi and I have a cat, she's a mixed breed, but she is a ragdoll. I am currently in California, USA.
+I'm a young developer from Vietnam and enjoy UI/UX design and web development. My favorite food is sushi and I have a cat, she's a mixed breed. I am currently in California, USA.
 
 ## Skills
 <img src="https://fc-wordpress-blog-bucket.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/21071611/480px-Python-logo-notext.svg_-2.png" alt="python" width="50">
