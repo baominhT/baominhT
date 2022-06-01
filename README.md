@@ -12,10 +12,11 @@
 - 📫 How to reach me: zyphuerz@gmail.com
 - 😄 My pronouns are they/them
 
+![image](https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=github_dark&hide_border=true)
+
 
 ## About me 📝
 I'm a young developer from Vietnam and enjoy UI/UX design and web development. My favorite food is sushi and I have a cat, she's a mixed breed. I am currently in California, USA.
-![image](https://github-readme-stats.vercel.app/api?username=hoo12F&show_icons=true&theme=github_dark&hide_border=true)
 
 ## Skills
 <img src="https://fc-wordpress-blog-bucket.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/21071611/480px-Python-logo-notext.svg_-2.png" alt="python" width="50">
