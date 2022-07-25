@@ -7,8 +7,8 @@
 
 
 - 👋 Hi, I’m @hoo12F
-- 👀 I’m interested in programming,machine learning, cybersecurity, web development & UI/UX
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming, cybersecurity, web development & UI/UX
+- 🌱 I’m currently learning Python & CSS
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: zyphuerz@gmail.com
 - 😄 My pronouns are they/them
