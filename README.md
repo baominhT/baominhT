@@ -4,7 +4,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
 </p>
 <hr>
-
+<img align="right" src="https://istevit.in/public/imgs/tech.gif">
 
 - 👋 Hi, I’m @hoo12F
 - 👀 I’m interested in programming, cybersecurity, web development & UI/UX
@@ -25,7 +25,7 @@ html" width="70"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoo12F&layout=compact)](https://github.com/hoo12F/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoo12F&layout=compact)](https://github.com/hoo12F/github-readme-stats)[![hoo12F's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoo12F)](https://github.com/hoo12F/github-readme-activity-graph)
 <!---
 baominhT/baominhT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
