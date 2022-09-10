@@ -1,4 +1,5 @@
-![github bannrt](https://user-images.githubusercontent.com/96026994/164997076-c7bdfdb2-80cd-4319-b96a-5fa0ce8711d7.png)
+![image](https://user-images.githubusercontent.com/96026994/189465045-acbcb9a6-a240-4a1a-b93f-4004e165a33d.png)
+
 <h2 align="center">Hi, I'm Omnix.</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
@@ -16,7 +17,7 @@
 
 
 ## About me 📝
-I'm a young developer from Vietnam and enjoy UI design and web development. My favorite food is sushi & Chow Fun and I have a cat, she's a mixed breed. I am currently in California, USA.
+I'm a young vietnamese developer and enjoy UI design and web development. My favorite food is sushi & Chow Fun and I have a cat. I am currently in California, USA.
 
 ## Skills
 
@@ -25,7 +26,10 @@ html" width="70"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoo12F&layout=compact)](https://github.com/hoo12F/github-readme-stats)[![hoo12F's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoo12F)](https://github.com/hoo12F/github-readme-activity-graph)
+[![hoo12F's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoo12F&theme=react-dark&radius=10&hide_border=true)](https://github.com/hoo12F/github-readme-activity-graph)
+<p align="center">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" />&nbsp;&nbsp;&nbsp;<img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" />
+</p>
 <!---
 baominhT/baominhT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
