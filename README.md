@@ -14,7 +14,7 @@
 - 📫 How to reach me: zyphuerz@gmail.com
 - 😄 My pronouns are they/them
 
-<a href="https://dev.to/hoo12f"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://dev.to/hoo12f"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:zyphuerz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 
 ## About me 📝
 I'm a young vietnamese developer and enjoy UI design and web development. My favorite food is sushi & Chow Fun and I have a cat. I am currently in California, USA.
