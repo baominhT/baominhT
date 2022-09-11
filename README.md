@@ -18,7 +18,9 @@
 
 ## About me 📝
 I'm a young vietnamese developer and enjoy UI design and web development. My favorite food is sushi & Chow Fun and I have a cat. I am currently in California, USA.
-
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ## Skills
 **Languages**
 
