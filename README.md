@@ -45,7 +45,7 @@ Soon to be
 ## Stats
 [![hoo12F's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoo12F&theme=react-dark&radius=10&hide_border=true)](https://github.com/hoo12F/github-readme-activity-graph)
 <p align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" />&nbsp;&nbsp;&nbsp;<img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" />
+<a href="github.com/hoo12F/baominh-links"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" /></a>&nbsp;&nbsp;&nbsp;<a href="github.com/hoo12F/desktop"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" /></a>
 </p>
 <!---
 baominhT/baominhT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
