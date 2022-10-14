@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, I'm Omnix.</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=yellowdark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
 </p>
 <hr>
 <img align="right" src="https://istevit.in/public/imgs/tech.gif">
