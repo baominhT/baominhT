@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/96026994/189465045-acbcb9a6-a240-4a1a-b93f-4004e165a33d.png)
 
-<h2 align="center">Hi, I'm Omnix.</h2>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
 </p>
