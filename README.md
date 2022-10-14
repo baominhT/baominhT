@@ -21,7 +21,7 @@ I'm a young vietnamese developer and enjoy UI design and web development. My fav
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-## Skills
+## 💻 Skills
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -42,7 +42,7 @@ Soon to be
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-## Stats
+## 📊 Stats
 [![hoo12F's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoo12F&theme=react-dark&radius=10&hide_border=true)](https://github.com/hoo12F/github-readme-activity-graph)
 <p align="center">
 <a href="https://github.com/hoo12F/baominh-links"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoo12F/desktop"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" /></a>
