@@ -51,3 +51,7 @@ Soon to be
 baominhT/baominhT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```python
+willToLive = False
+```
