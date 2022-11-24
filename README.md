@@ -31,19 +31,17 @@ I'm a young vietnamese developer and enjoy UI design and web development. My fav
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)&nbsp;&nbsp;	![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
-Soon to be
-
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
 ## 📊 Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
+</p>
 
 <p align="center">
 <a href="https://github.com/hoo12F/baominh-links"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoo12F/desktop"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" /></a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
-</p>
+
 <details>
 
 
