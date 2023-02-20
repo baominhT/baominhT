@@ -36,21 +36,6 @@ I'm a young vietnamese developer and enjoy UI design and web development. My fav
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hoo12F&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
 </p>
 
-<p align="center">
-<a href="https://github.com/hoo12F/baominh-links"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=baominh-links&theme=github_dark&border_color=212121" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/hoo12F/desktop"><img width="41%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoo12F&repo=desktop&theme=github_dark&border_color=212121" /></a>
-</p>
-
-
-<details>
-
-
-  <summary>Contribution Graph</summary>
-<br>
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hoo12F&theme=react-dark&radius=10&hide_border=true)](https://github.com/hoo12F/github-readme-activity-graph)
-
-</details>
-
 <!---
 baominhT/baominhT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
